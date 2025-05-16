@@ -47,5 +47,22 @@ Model was trained using:
 ## How to Run
 Install dependencies:
 
-```bash
+bash
+
 pip install -r requirements.txt
+
+## Launch the app
+
+streamlit run app.py
+
+## EXAMPLE USE CASE
+Input: "I'm feeling really overwhelmed and alone lately."
+Output: This post may indicate suicidal thoughts.
+
+### Author
+Shaily Litoriya
+
+### License
+This project is for educational purposes. Attribution required if reused.
+
+---
