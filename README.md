@@ -45,24 +45,7 @@ Model was trained using:
 - **Precision/Recall/F1-Score**: Balanced around 0.94
 
 ## How to Run
-
-1. Install dependencies:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-2. Launch the app:
-
-streamlit run app.py
-
-EXAMPLE USE CASE:
-Input: "I'm feeling really overwhelmed and alone lately."
-Output: This post may indicate suicidal thoughts.
-
-Author
-Shaily Litoriya
-
-License
-This project is for educational purposes. Attribution required if reused.
-
----
