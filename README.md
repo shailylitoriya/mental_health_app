@@ -16,6 +16,7 @@ This project is an end-to-end deep learning application that detects mental heal
 ## Project Structure
 
 mental_health_app/
+├── MentalHealthProject.ipynb # code
 ├── app.py # Streamlit app
 ├── mental_health_model.h5 # Trained deep learning model
 ├── tokenizer.json # Tokenizer used during training
